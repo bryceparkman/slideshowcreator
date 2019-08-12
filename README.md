@@ -5,7 +5,7 @@
   Because of all the moving parts, this program requires quite a few libraries and software.
   
   Python libraries:
-  * [Lyrics Genius](https://github.com/johnwmillr/LyricsGenius)
+  * [LyricsGenius](https://github.com/johnwmillr/LyricsGenius)
   * [pygame](https://www.pygame.org/news)
   * [requests](https://pypi.org/project/requests/)
   * [google_images_download](https://github.com/hardikvasa/google-images-download)
