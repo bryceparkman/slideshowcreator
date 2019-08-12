@@ -3,6 +3,7 @@
   
 ## Example
   Here is what the program would generate for the first ~3.5 minutes of the bee movie.
+  
   https://www.youtube.com/watch?v=GQyiiDuV-Ao
 
 ## The Requirements
