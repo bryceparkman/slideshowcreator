@@ -12,7 +12,7 @@
   * [textblob](https://pypi.org/project/textblob/)
   
   Misc:
-  * [gentle](using docker installation for Windows)](https://github.com/lowerquality/gentle)
+  * [gentle](https://github.com/lowerquality/gentle) (using docker installation for Windows)
   * [Genius API](https://genius.com/developers) (You must create an API and get a Genius client access token if using that feature)
   
 ## Usage
